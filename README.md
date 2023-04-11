@@ -3,8 +3,7 @@
 
 
 
-[![Daijoubust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daijoubust)](https://github.com/anuraghazra/github-readme-stats)
-![Daijoubust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daijoubust&hide=contribs,prs)
+![Daijoubust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daijoubust&show_icons=true&theme=tokyonight)
 
 <!--
 **Daijoubust/Daijoubust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
